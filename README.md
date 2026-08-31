@@ -12,7 +12,7 @@ I enjoy solving complex engineering problems, improving application performance,
 💻 Full Stack Development
 🤖 Exploring Generative AI & AI-Assisted Engineering
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/anuj-katariya-6645551/) • [GitHub](https://github.com/Anuj-Devs) • [Portfolio](https://anuj-katariya.vercel.app/)
 
 ---
 
