@@ -320,6 +320,41 @@ I’m particularly interested in the intersection of:
 
 ---
 
+📊 GitHub Activity & Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Anuj's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj-Devs&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+</p>
+
+🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anuj-Devs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Profile Trophies" />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+<i>Consistent learning, meaningful contributions, and continuous improvement. 🚀</i>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in:
