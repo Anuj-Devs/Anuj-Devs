@@ -8,7 +8,7 @@ I work across the complete application lifecycle — from **frontend architectur
 
 I enjoy solving complex engineering problems, improving application performance, writing clean and maintainable code, and exploring how **Generative AI and AI-assisted development** can make software engineering faster and more effective.
 
-📍 India
+📍 Pune (IND)
 💻 Full Stack Development
 🤖 Exploring Generative AI & AI-Assisted Engineering
 
