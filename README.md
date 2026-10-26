@@ -323,17 +323,6 @@ I’m particularly interested in the intersection of:
 <img src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj-Devs&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
-</p>
-
-🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anuj-Devs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Profile Trophies" />
-</p>
 
 🐍 Contribution Snake
 
