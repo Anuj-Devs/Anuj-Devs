@@ -312,14 +312,6 @@ I’m particularly interested in the intersection of:
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-Devs\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs\&layout=compact\&theme=dark")
-
----
-
 📊 GitHub Activity & Statistics
 
 <p align="center">
