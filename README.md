@@ -375,21 +375,6 @@ alt="GitHub Contribution Streak" />
 
 </div>
 
------------------------------
-
-
-
-📊 GitHub Activity & Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Anuj's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
 
 🐍 Contribution Activity
 
