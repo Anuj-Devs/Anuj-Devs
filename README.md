@@ -1,361 +1,407 @@
 # 👋 Hi, I'm Anuj Katariya
 
-### Full Stack Developer | React.js | Vue.js | Next.js | Node.js | AI-Assisted Development
+<div align="center">
 
-I’m a **Full Stack Developer** focused on building scalable, secure, responsive, and high-performance web applications.
+### Full Stack Developer | React.js | Vue.js | Next.js | Node.js
 
-I work across the complete application lifecycle — from **frontend architecture and UI development** to **backend APIs, databases, cloud deployment, CI/CD, and production support**.
+**Building Scalable Applications · Exploring Generative AI · Engineering Better Software**
 
-I enjoy solving complex engineering problems, improving application performance, writing clean and maintainable code, and exploring how **Generative AI and AI-assisted development** can make software engineering faster and more effective.
+<br/>
 
-📍 Pune (IND)
-💻 Full Stack Development
-🤖 Exploring Generative AI & AI-Assisted Engineering
+<a href="https://anuj-katariya.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anuj-katariya-664616221/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Anuj-Devs">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/anuj-katariya-664616221/) • [GitHub](https://github.com/Anuj-Devs) • [Portfolio](https://anuj-katariya.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=Anuj-Devs&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
----
-
-## 🧠 Engineering Philosophy
-
-> Build with strong fundamentals, use the right tools, and let AI accelerate — not replace — engineering thinking.
-
-My development approach:
-
-**Understand → Plan → Build → Test → Review → Optimize → Deploy**
-
-I believe good software should be:
-
-* 🚀 Scalable
-* 🔐 Secure
-* ⚡ High-performance
-* 🧩 Maintainable
-* ♻️ Reusable
-* 📱 Responsive
-* 🤖 AI-assisted where it adds real value
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🎨 Frontend
+I'm a Full Stack Developer passionate about building scalable, secure, responsive, and high-performance web applications.
 
-* React.js
-* Next.js (SSR)
-* Vue.js 2 / 3
-* Nuxt.js
-* Svelte.js
-* Angular
-* JavaScript ES6+
-* TypeScript
-* HTML5
-* CSS3
-* SCSS
-* Tailwind CSS
-* Bootstrap
-* Material UI
-* Vuetify
-* Redux
-* Context API
-* Vuex
-* Pinia
-* RxJS
-* React Hooks
-* Responsive Web Design
-* Component-Based Architecture
-* Frontend Performance Optimization
+I work across the complete software development lifecycle, from frontend architecture and backend API development to database design, cloud deployment, CI/CD, and production support.
 
-### ⚙️ Backend
+I enjoy solving complex engineering challenges, improving application performance, writing clean and maintainable code, and exploring how Generative AI can improve modern software development.
 
-* Node.js
-* Express.js
-* RESTful APIs
-* JWT Authentication
-* OAuth
-* Middleware & API Security
-* Sequelize ORM
-* WebSockets
-* Async Programming
-* Error Handling & Logging
-* API Integration
-* Microservices
-* Go / Golang
-* Python
-* C# / ASP.NET
-* PHP
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🗄️ Databases
+### 💻 Development
 
-* MongoDB
-* MySQL
-* PostgreSQL
-* MariaDB
-* MS SQL Server
-* Database Schema Design
-* Data Modeling
-* Indexing
-* Query Optimization
-* Stored Procedures
+- Full Stack Web Development
+- Frontend Architecture
+- Backend Engineering
+- REST API Development
+- Database Design
+- Cloud & DevOps
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Current Interests
+
+- Generative AI
+- AI-Assisted Development
+- LLM Applications
+- Retrieval-Augmented Generation
+- AI Coding Agents
+- Agentic Engineering
+
+</td>
+</tr>
+</table>
+
+**📍 Location:** Pune, India  
+**💼 Focus:** Full Stack Engineering  
+**🎯 Goal:** Building better software with strong engineering fundamentals and AI-assisted workflows.
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,angular,js,ts,html,css,scss,tailwind,bootstrap" />
+</p>
+
+**Libraries & State Management**
+
+- Redux & Redux Toolkit
+- Context API
+- Vuex & Pinia
+- RxJS
+- React Hooks
+- Material UI
+- Vuetify
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,cs,dotnet,php" />
+</p>
+
+- Node.js & Express.js
+- RESTful API Architecture
+- JWT Authentication
+- OAuth 2.0
+- Middleware & API Security
+- WebSockets
+- Microservices
+- Sequelize ORM
+- Error Handling & Logging
+- Asynchronous Programming
+
+### 🗄️ Database & Data Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
+</p>
+
+- MongoDB
+- MySQL
+- PostgreSQL
+- MariaDB
+- Microsoft SQL Server
+- Database Schema Design
+- Data Modeling
+- Indexing & Query Optimization
+- Stored Procedures
 
 ### ☁️ Cloud & DevOps
 
-* AWS EC2
-* AWS S3
-* AWS RDS
-* AWS Lambda
-* AWS CloudFront
-* AWS SQS
-* Docker
-* CI/CD
-* GitHub Actions
-* Nginx
-* PM2
-* Linux
-* Cloud Deployment
-* Environment Configuration
-* Application Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,bash" />
+</p>
 
-### 🔌 APIs & Integrations
+- AWS EC2, S3, RDS & Lambda
+- AWS CloudFront & SQS
+- Docker
+- CI/CD Pipelines
+- GitHub Actions
+- Nginx
+- PM2
+- Linux Server Management
+- Cloud Deployment
+- Application Monitoring
 
-* REST APIs
-* Third-Party API Integration
-* Twilio
-* Google Maps API
-* Leaflet
-* QuickBooks Integration
-* Payment Gateway Integration
-* Stripe
+### 🔌 APIs & Third-Party Integrations
 
-### 🖥️ Desktop & Cross-Platform
+<p>
+<img src="https://skillicons.dev/icons?i=postman,firebase" />
+</p>
 
-* Electron.js
-* Tauri
-* Rust
-* C#
+- REST APIs
+- Twilio
+- Google Maps API
+- Leaflet
+- QuickBooks Integration
+- Payment Gateway Integration
+- Stripe
 
-### 🎨 UI / UX & Design
+### 🖥️ Desktop & Cross-Platform Development
 
-* Figma
-* Canva
-* Adobe XD
-* WordPress
-* Stimulsoft Reports
+<p>
+<img src="https://skillicons.dev/icons?i=electron,tauri,rust,cs" />
+</p>
 
-### 🔧 Development Tools
+- Electron.js
+- Tauri
+- Rust
+- C#
 
-* Visual Studio Code
-* Visual Studio
-* Git
-* GitHub
-* GitHub Actions
-* Gitea
-* Bitbucket
-* Postman
-* Jira
-* pgAdmin
-* SQL Electron
-* Nginx
-* WinSCP
-* PuTTY
+### 🎨 UI/UX & Design Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,xd,wordpress" />
+</p>
+
+- Figma
+- Adobe XD
+- Canva
+- WordPress
+- Stimulsoft Reports
 
 ---
 
 ## 🤖 AI-Assisted Development
 
-Currently exploring how AI can be integrated into modern software engineering workflows.
+I'm exploring how Generative AI and AI-powered development tools can make software engineering more productive, efficient, and intelligent.
 
-### AI Tools
+### AI Tools & Platforms
 
-* ChatGPT
-* Claude AI
-* Google AI Studio
-* Gemini AI
-* GitHub Copilot
-* Cursor AI
-* v0 by Vercel
-* Lovable
-* Bolt.new
-* Blackbox AI
-* Perplexity AI
+<p align="left">
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
 
-### AI Engineering Areas
+### Areas of Interest
 
-* Prompt Engineering
-* Generative AI
-* AI-Assisted Coding
-* Code Generation
-* Code Refactoring
-* AI-Powered Debugging
-* AI Code Review
-* Documentation Generation
-* LLM Integrations
-* RAG
-* AI Coding Agents
-* AI-Native Development Workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 AI Engineering**
+
+- Generative AI
+- Prompt Engineering
+- LLM Integrations
+- Retrieval-Augmented Generation
+- AI Coding Agents
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ AI Development Workflows**
+
+- AI-Assisted Coding
+- Code Generation
+- Code Refactoring
+- AI-Powered Debugging
+- AI Code Review
+- Documentation Generation
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔭 What I'm Exploring
 
-* 🤖 Generative AI for Software Development
-* 🧠 LLM Applications
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🛠️ AI Coding Agents
-* ⚡ AI-assisted development workflows
-* 🧩 Agentic Engineering
-* ☁️ AI-powered cloud applications
-* 🚀 AI + Full Stack Development
-* 📚 Building reusable AI-assisted developer workflows
+| Area | Focus |
+|---|---|
+| 🤖 Generative AI | Practical AI-powered applications |
+| 🧠 LLM Applications | Building intelligent applications using LLMs |
+| 🔎 RAG | Retrieval-Augmented Generation |
+| 🛠️ AI Agents | AI coding agents and agentic workflows |
+| ⚡ AI Engineering | AI-assisted software development |
+| ☁️ Cloud & AI | Scalable AI-powered cloud applications |
+| 🚀 Full Stack + AI | Combining modern web technologies with AI |
 
 ---
 
-## 💻 Development Focus
+## 🧩 Engineering Philosophy
 
-### Frontend Engineering
+<div align="center">
 
-Building modern, responsive and component-driven applications with:
+### Understand → Plan → Build → Test → Review → Optimize → Deploy
 
-**React.js • Vue.js • Next.js • Nuxt.js • TypeScript • JavaScript**
+</div>
 
-### Backend Engineering
+I believe great software comes from strong fundamentals, thoughtful architecture, and continuous improvement.
 
-Designing secure and scalable backend systems with:
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Node.js • Express.js • REST APIs • JWT/OAuth • WebSockets • Microservices**
+### 🚀
 
-### Data & Architecture
+**Scalability**
 
-Working with:
+Applications built to grow.
 
-**MongoDB • MySQL • PostgreSQL • MariaDB • MS SQL Server**
+</td>
+<td align="center" width="33%">
 
-with focus on:
+### 🔐
 
-**Schema Design • Data Modeling • Indexing • Query Optimization**
+**Security**
 
-### Cloud & Deployment
+Secure and reliable systems.
 
-Building and deploying applications using:
+</td>
+<td align="center" width="33%">
 
-**AWS • Docker • GitHub Actions • Nginx • PM2 • Linux**
+### ⚡
 
----
+**Performance**
 
-## 🚀 Featured Project
+Fast and optimized applications.
 
-### 🎯 Interview Slot Booking System
+</td>
+</tr>
+<tr>
+<td align="center">
 
-A full-stack interview scheduling platform built using the MERN stack.
+### 🧩
 
-**Tech Stack:**
+**Maintainability**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+Clean and reusable code.
 
-### Key Features
+</td>
+<td align="center">
 
-* 🔐 Secure JWT authentication
-* 📅 Interview slot management
-* ⚡ Real-time slot availability
-* 🗓️ Interview scheduling
-* ❌ Booking cancellation
-* 🔄 Reusable React components
-* 🔌 RESTful backend APIs
-* 🚀 Cloud deployment
+### 📱
 
-The application was deployed using **Vercel and Render**.
+**Responsiveness**
 
----
+Consistent user experience.
 
-## 📈 Engineering Experience
+</td>
+<td align="center">
 
-I have worked on:
+### 🤖
 
-* Full-stack web applications
-* Enterprise applications
-* RESTful API development
-* Authentication & authorization
-* Database architecture
-* Third-party API integrations
-* Payment gateway integrations
-* Cloud deployments
-* CI/CD pipelines
-* Performance optimization
-* Production debugging
-* Code reviews
-* Unit testing
-* Agile/Scrum development
-* Cross-functional collaboration
+**Innovation**
+
+AI where it adds real value.
+
+</td>
+</tr>
+</table>
+
+> Build with strong fundamentals, use the right tools, and let AI accelerate — not replace — engineering thinking.
 
 ---
 
-## ⚡ Things I Care About
+## 💼 Engineering Experience
 
-```text
-Clean Code
-        ↓
-Reusable Architecture
-        ↓
-Secure APIs
-        ↓
-Optimized Database
-        ↓
-Fast Frontend
-        ↓
-Reliable Deployment
-        ↓
-Continuous Improvement
-```
+My experience includes working across different areas of software engineering:
 
-I’m particularly interested in the intersection of:
-
-**Full Stack Engineering × Cloud × Generative AI**
+- Full Stack Web Application Development
+- Enterprise Application Development
+- React.js & Vue.js Application Architecture
+- Backend API Development
+- Authentication & Authorization
+- Database Architecture & Optimization
+- Third-Party API Integrations
+- Payment Gateway Integrations
+- AWS Cloud Deployments
+- CI/CD Pipeline Implementation
+- Performance Optimization
+- Production Debugging & Support
+- Code Reviews & Unit Testing
+- Agile/Scrum Development
+- Cross-Functional Team Collaboration
 
 ---
 
-📊 GitHub Activity & Statistics
+## 🧰 Development Tools
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Anuj's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,bitbucket,postman,linux,docker,figma" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+**Additional Tools**
 
+- Gitea
+- Jira
+- pgAdmin
+- SQL Electron
+- WinSCP
+- PuTTY
+- Nginx
 
-🐍 Contribution Snake
+---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-<i>Consistent learning, meaningful contributions, and continuous improvement. 🚀</i>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
+I'm always interested in connecting with developers, exploring new technologies, discussing engineering challenges, and collaborating on meaningful projects.
 
-* 💡 Interesting engineering problems
-* 🤖 Generative AI & AI-native development
-* 🚀 Full-stack development
-* 🌐 Open-source projects
-* 🧠 Learning and sharing knowledge
-* 🤝 Collaboration on meaningful projects
+<div align="center">
 
-### Find me here:
+<a href="https://www.linkedin.com/in/anuj-katariya-664616221/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-🌐 **Portfolio:** Anuj-Katariya.vercel.app
-🐙 **GitHub:** https://github.com/Anuj-Devs
+<a href="https://github.com/Anuj-Devs">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<a href="https://anuj-katariya.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
-If you find something useful here, feel free to ⭐ a repository or connect with me.
-
 **Build. Learn. Improve. Repeat. 🚀**
+
+</div>
