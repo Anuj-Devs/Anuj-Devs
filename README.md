@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anuj Katariyaa
+# 👋 Hi, I'm Anuj Katariya
 
 ### Full Stack Developer | React.js | Vue.js | Next.js | Node.js | AI-Assisted Development
 
