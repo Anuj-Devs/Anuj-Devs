@@ -366,11 +366,13 @@ My experience includes working across different areas of software engineering:
 </p>
 
 
-🐍 Contribution Snake
+## 🐍 Contribution Activity
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
 
 <p align="center">
 <i>Consistent learning, meaningful contributions, and continuous improvement. 🚀</i>
