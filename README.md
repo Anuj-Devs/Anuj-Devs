@@ -366,7 +366,7 @@ My experience includes working across different areas of software engineering:
 </p>
 
 
-## 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
 
