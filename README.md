@@ -354,6 +354,31 @@ My experience includes working across different areas of software engineering:
 
 ---
 
+
+📊 GitHub Activity & Statistics
+
+<div align="center">
+
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
+alt="Anuj's GitHub Stats" />
+
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="65%"
+src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
+
+</div>
+
+-----------------------------
+
+
+
 📊 GitHub Activity & Statistics
 
 <p align="center">
