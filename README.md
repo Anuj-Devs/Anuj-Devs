@@ -367,7 +367,7 @@ alt="Anuj's GitHub Stats" />
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 alt="Most Used Languages" />
 
-<br/><br/>
+<br/>
 
 <img width="65%"
 src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true"
