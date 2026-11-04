@@ -354,29 +354,27 @@ My experience includes working across different areas of software engineering:
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Activity & Statistics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Anuj's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuj-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Devs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
-<br/><br/>
+🐍 Contribution Snake
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Anuj-Devs&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
 
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anuj-Devs/Anuj-Devs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-</div>
+<p align="center">
+<i>Consistent learning, meaningful contributions, and continuous improvement. 🚀</i>
+</p>
 
 ---
 
